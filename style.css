@@ -1,0 +1,9 @@
+li a {
+  font-size: large;
+  color: rgb(47, 0, 255);
+}
+.recipes_ls{
+  border: 10px;
+  border-style: dashed;
+  margin: 20px;
+}
