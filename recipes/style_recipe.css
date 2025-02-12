@@ -8,4 +8,7 @@ h3{
 .home_link{
   font-weight: bold;
   background-color: pink;
+  padding: 100px;
+  display: inline-block;
+  
 }
